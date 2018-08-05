@@ -42,7 +42,6 @@
     <?php
         } else { ?>
             <p class="text-center font-weight-bold">Agora, você precisa descobrir as letras para poder formar a palavra final: <?= $_SESSION["palavra_x"]?></p>
-            <p class="text-center font-weight-bold">Lembre-se que toda palavra começa com uma letra maiúscula</p>
     <?php    
         }
 ?>
